@@ -19,6 +19,4 @@ In this case, I performed specific transformations to ensure compatibility:
 ---
 
 ### 📂 View the Project
-For a deep dive into the code and full implementation, feel free to **[explore the original file here]( Data-Cleaning
-
-/DataCleaning.ipynb)**.
+For a deep dive into the code and full implementation, feel free to explore the original notebook here: **[DataCleaning.ipynb](DataCleaning.ipynb)**.
