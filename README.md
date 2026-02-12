@@ -1,4 +1,3 @@
-
 # Getting Data Ready with Python and Pandas on Google Colab
 
 ## Data Exploration
@@ -16,3 +15,8 @@ The quality of data often depends on the source system. Depending on how informa
 
 In this case, I performed specific transformations to ensure compatibility:
 * **Date Formatting:** Standardised the date format to maintain consistency with other datasets, enabling seamless merging and time-series analysis.
+
+---
+
+### 📂 View the Project
+For a deep dive into the code and full implementation, feel free to **[explore the original file here](./path/to/your/file_or_folder)**.
